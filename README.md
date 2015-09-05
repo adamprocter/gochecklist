@@ -25,7 +25,7 @@ the project uphold and fulfill these principles.
 The failure to fulfill any of these usually causes one to discard a project and
 look for alternatives.
 
-  ☐ Licensed: Does the project have a license?
+  ☑ Licensed: Does the project have a license?
 
   See: [publication/licensing.md](publication/licensing.md)
 
